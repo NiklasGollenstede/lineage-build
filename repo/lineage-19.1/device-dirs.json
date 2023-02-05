@@ -1,0 +1,55 @@
+{
+  "device/oneplus/instantnoodle": {
+    "date": "2022-11-22T12:36:59+01:00",
+    "deepClone": false,
+    "deps": [
+      "device/oneplus/sm8250-common"
+    ],
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/9ryh9m5bns8hwxhxnpp08qh8z1lqgfvq-android_device_oneplus_instantnoodle",
+    "rev": "ca65fc4505b7f2742c38f7b6feca43dd4f10f0c0",
+    "sha256": "1841623p24bwdsffd9vmrp054l9yi4156pbpdbi1lfy167v7v66m",
+    "url": "https://github.com/LineageOS/android_device_oneplus_instantnoodle"
+  },
+  "device/oneplus/sm8250-common": {
+    "date": "2022-12-21T20:56:13+01:00",
+    "deepClone": false,
+    "deps": [
+      "hardware/oplus",
+      "kernel/oneplus/sm8250"
+    ],
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/nan3wiqhs5wci1306yaa8zpv240iv7hm-android_device_oneplus_sm8250-common",
+    "rev": "a7206b0203b003b06bf11fd23a2e934e35374594",
+    "sha256": "043yjziff3s08606ghmzx1lfqbdbzzsh9x0dk7v0ajlxz1zbs3cz",
+    "url": "https://github.com/LineageOS/android_device_oneplus_sm8250-common"
+  },
+  "hardware/oplus": {
+    "date": "2022-12-21T20:55:58+01:00",
+    "deepClone": false,
+    "deps": [],
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/d2ry0axbsffb4qwsq0dzy1f0wimms0f8-android_hardware_oplus",
+    "rev": "081632e26c133b0fb96305f1a2ee02f3c5cd9992",
+    "sha256": "17naw89y8xnkzf92r6j344rrdlj3r37jkn3f4rvzz1h5sv4a3iq9",
+    "url": "https://github.com/LineageOS/android_hardware_oplus"
+  },
+  "kernel/oneplus/sm8250": {
+    "date": "2022-11-22T12:40:54+01:00",
+    "deepClone": false,
+    "deps": [],
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/wny0aqad1wl436hyq5mpbisfby0m3kb8-android_kernel_oneplus_sm8250",
+    "rev": "1814bba1eefda50743199163ffc3032f11a04ce0",
+    "sha256": "108a9wrbbrpn0b60hp4qjaqns82kyi0xy49z2s3x5p5g89q532v7",
+    "url": "https://github.com/LineageOS/android_kernel_oneplus_sm8250"
+  }
+}

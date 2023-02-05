@@ -1,0 +1,13 @@
+{
+  "vendor/oneplus": {
+    "date": "2022-12-21T21:06:41+01:00",
+    "deepClone": false,
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "path": "/nix/store/gdkrxgm6m2ilhwh7f9v0v4s4gzskl511-proprietary_vendor_oneplus",
+    "rev": "69f28c45a5e4485d343a268537a65efe00f3551e",
+    "sha256": "134k4i0r37xvql4x3igvfri4id4fs7qdx5fqdbpf2mgklyd8fw0b",
+    "url": "https://github.com/TheMuppets/proprietary_vendor_oneplus"
+  }
+}
